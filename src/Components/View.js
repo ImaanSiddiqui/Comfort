@@ -11,7 +11,7 @@ function View() {
               Service & Maintenance
               Single Visit Solution On Same Day Of Booking
             </p>
-            <a className='btn' href='tel:+919730310865'> <img src={call} alt=''/> Call Us</a>
+            <a className='btn' href='tel:+919730310865'> <img src={call} alt=''/> 1800-795-555</a>
         </div>
 
       
